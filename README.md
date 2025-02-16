@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 # Getting Started with Create React App
+c:\Users\mdaka\OneDrive\Pictures\Screenshots 1\Screenshot (2).png
+c:\Users\mdaka\OneDrive\Pictures\Screenshots 1\Screenshot (3).png
+c:\Users\mdaka\OneDrive\Pictures\Screenshots 1\Screenshot (4).png
 
+# This a basic calculator app craeted using React.
+# use npm start to run project on vs code teminal(command prompt)
+# You should have node v18
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
